@@ -27,6 +27,11 @@
 ### 제작 후 README 작성하기
 무엇을 만들었고, 어떤 시도가 성공했고 어떤시도가 실패했는지 기록하기
 
+### 실패한다면?
+차주에 계속 진행해서 완성시키기  
+만약 차주에도 완성을 실패한다면 다시는 Game A Week에 해당 프로젝트하지 않기  
+**실패에 대한 글은 현 문서에서 서술**
+
 ## 글귀 한마디
 
 링크된 글을 작성한 Rami Ismail 의 한마디  
@@ -39,3 +44,7 @@ If you want to be a game developer, start making a lot of games. Make awful game
 ## [1주차](https://github.com/NotonAlcyone/Mind_Runner)
 ## [2주차](https://github.com/NotonAlcyone/ClickingMoney)
 ## [3주차](https://github.com/NotonAlcyone/The-Fragment)
+* **실패**
+* 해당 작업은 4주차에서 계속 진행
+
+## [4주차](https://github.com/NotonAlcyone/Operation-Cube-Cutscene)
